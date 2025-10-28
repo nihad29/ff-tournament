@@ -1,0 +1,5 @@
+{
+  "name": "Tournament Admin Panel",
+  "description": "A professional, feature-rich, and interactive admin panel for managing tournaments. It provides a powerful command center for organizers to manage tournaments, verify results, handle payments, and moderate users.",
+  "requestFramePermissions": []
+}
